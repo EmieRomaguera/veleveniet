@@ -1,0 +1,26 @@
+{
+  "name": "veleveniet",
+  "version": "1.0.0",
+  "description": "Inflector pluralizes and singularizes English nouns. It also contains some other useful methods.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "BenjaminWolf",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EmieRomaguera/veleveniet.git"
+  },
+  "bugs": {
+    "url": "https://github.com/EmieRomaguera/veleveniet.git/issues"
+  },
+  "homepage": "https://github.com/EmieRomaguera/veleveniet.git",
+  "keywords": [
+    "javascript",
+    "nodejs",
+    "inflector",
+    "quaerat",
+    "requirejs"
+  ]
+}
